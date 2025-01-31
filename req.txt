@@ -1,3 +1,5 @@
 ipykernel
 numpy
 nnfs
+matplotlib
+pandas
